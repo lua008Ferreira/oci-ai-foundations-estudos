@@ -9,11 +9,17 @@ Os resumos seguem os 7 temas da prova e usam um padrão fixo: ideia central, con
 
 ## Conteúdo
 
-| Pasta | O que tem |
+| Arquivo | O que tem |
 |---|---|
-| [`resumos/`](resumos/) | Um resumo por tema, mais complementos e glossário |
-| [`simulado/`](simulado/) | Simulado de 50 perguntas em PDF, com gabarito e explicações |
-| [`plano-de-estudo.md`](plano-de-estudo.md) | Plano de 5 dias |
+| [01-fundamentos-de-ia.md](01-fundamentos-de-ia.md) | Fundamentos de IA |
+| [02-fundamentos-de-ml.md](02-fundamentos-de-ml.md) | Fundamentos de Machine Learning |
+| [03-deep-learning.md](03-deep-learning.md) | Deep Learning |
+| [04-ia-generativa-e-llms.md](04-ia-generativa-e-llms.md) | IA generativa e LLMs |
+| [05-portfolio-oci-generative-ai-e-23ai.md](05-portfolio-oci-generative-ai-e-23ai.md) | Portfólio de IA da OCI, Generative AI e Oracle 23ai |
+| [06-servicos-de-ia-da-oci.md](06-servicos-de-ia-da-oci.md) | Serviços de IA da OCI |
+| [07-complementos-e-glossario.md](07-complementos-e-glossario.md) | Complementos e glossário |
+| [Simulado_OCI_AI_Foundations_50_perguntas.pdf](Simulado_OCI_AI_Foundations_50_perguntas.pdf) | Simulado de 50 perguntas, com gabarito e explicações |
+| [plano-de-estudo.md](plano-de-estudo.md) | Plano de 5 dias |
 
 ## Temas e pesos
 
@@ -41,3 +47,4 @@ Os pesos vêm de um guia público da versão 2025 da prova; a Oracle atualiza a 
 
 ## Sobre mim
 **Luana Ferreira de Sousa**, estudante de Ciência de Dados, em transição para dados e IA. Veja também o projeto [People Analytics e IA na Taranis Black](https://github.com/lua008Ferreira/people-analytics-taranis-black).
+
